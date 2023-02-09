@@ -1,0 +1,20 @@
+html {
+    background-color: palevioletred;
+    background-size: 100px;
+}
+
+.yellow {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+.center {
+    text-align: center;
+}
+.b {
+    color: aqua;
+   text-align: center;
+}
+.red {
+    text-align: center;
+}
