@@ -1,20 +1,29 @@
 html {
-    background-color: palevioletred;
-    background-size: 100px;
+  background-color: palevioletred;
+  background-size: 100px;
 }
 
 .yellow {
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 40px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+  margin: auto;
+  color: blanchedalmond;
 }
 .center {
-    text-align: center;
+  text-align: center;
 }
+
 .b {
-    color: aqua;
-   text-align: center;
+  color: aqua;
+  text-align: center;
+  font-size: 40px;
 }
+
 .red {
+  text-align: center;
+  margin: auto;
+}
+.water {
     text-align: center;
 }
